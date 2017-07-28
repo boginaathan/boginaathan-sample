@@ -1,2 +1,2 @@
 # boginaathan-sample
-Personal Project 
+Sample test message
